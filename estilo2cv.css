@@ -1,0 +1,34 @@
+.texh {
+  color: black;
+  font-family:  Arial, Helvetica, sans-serif;
+}
+   
+    body {
+        background-image: url(https://i.pinimg.com/564x/d6/37/d1/d637d1e9d6c39848d74192c69a38a31d.jpg);
+        background-repeat: no-repeat;
+        background-position: center center;
+        height: 1800px;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+ul {
+    padding-left: 10rem;
+    background-image: url(https://i.pinimg.com/564x/af/ad/4a/afad4ac00c1fd2ed704b740f03369d82.jpg);
+    background-position: left;
+    background-size: 5rem 5rem;
+    background-repeat: no-repeat;
+}
+dl {
+    padding-left: 10rem;
+    background-image: url(https://i.pinimg.com/564x/a5/04/24/a50424b5e667708db3bdb05ee95ea5bb.jpg);
+    background-position: left;
+    background-size: 5rem 5rem;
+    background-repeat: no-repeat;
+}
+ul li {
+    padding-left: 4rem;
+    background-image: url(https://i.pinimg.com/564x/ff/8a/6a/ff8a6a07037fec344765c44e4bc474de.jpg);
+    background-position: top;
+    background-size: 5rem 5rem;
+    background-repeat: no-repeat;
+}
